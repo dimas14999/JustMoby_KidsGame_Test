@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cf62a2ad61671ba4789484a445a534a7, type: 3}
+  m_Name: AnimationConfig
+  m_EditorClassIdentifier: 
+  <SpawnBounceDuration>k__BackingField: 0.16
+  <PlaceJumpHeight>k__BackingField: 64
+  <PlaceDropDuration>k__BackingField: 0.16
+  <PlaceReboundDuration>k__BackingField: 0.14
+  <PlaceTiltAngle>k__BackingField: 8
+  <PlaceReboundOffsetY>k__BackingField: 8
+  <MissBouncePopDuration>k__BackingField: 0.18
+  <MissBounceShrinkDuration>k__BackingField: 0.14
+  <MissBounceScale>k__BackingField: 1.22
+  <HoleFallDuration>k__BackingField: 0.42
+  <HoleDuration>k__BackingField: 0.08
+  <HoleOffset>k__BackingField: 12
+  <HoleSpinMin>k__BackingField: 320
+  <HoleSpinMax>k__BackingField: 520
+  <CollapseDuration>k__BackingField: 0.28
+  <CollapseStepDelay>k__BackingField: 0.03
+  <CollapseBounceHeight>k__BackingField: 8
+  <CollapseBounceDuration>k__BackingField: 0.14
